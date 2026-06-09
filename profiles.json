@@ -1,0 +1,15 @@
+{
+  "admin": {
+    "age": 18,
+    "gender": "Female",
+    "weight": 60.0,
+    "height": 163.0,
+    "activity": "Lightly Active (1-3 days/week)",
+    "goal": "Muscle Gain",
+    "is_diabetic": true,
+    "is_vegetarian": true,
+    "spice_tolerance": "Medium",
+    "exclude_gluten": true,
+    "exclude_dairy": true
+  }
+}

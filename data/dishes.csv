@@ -1,0 +1,70 @@
+dish_name,meal_type,cuisine_region,veg_flag,calories,protein_g,carbs_g,fat_g,fiber_g,sugar_g,sodium_mg,gi_value,gi_category,is_diabetic_friendly,is_weight_loss_friendly,spice_level,oil_heavy,contains_gluten,contains_dairy,serving_size
+Idli,breakfast,TN,True,58,2,12,0.4,0.5,0.5,120,35,Low,True,True,low,False,False,False,2 pieces
+Idli with Sambar,breakfast,TN,True,150,7,28,1.5,3,1,320,38,Low,True,True,medium,False,False,False,2 idli + 1 cup sambar
+Oats Idli,breakfast,TN,True,95,4,17,1.5,2.5,0.5,150,32,Low,True,True,low,False,False,False,2 pieces
+Ragi Dosa,breakfast,TN,True,105,3.5,20,1.5,2,0.8,150,45,Low,True,True,low,False,False,False,1 piece
+Pesarattu,breakfast,AP,True,130,8,20,2,3,0.5,180,38,Low,True,True,medium,False,False,False,1 piece
+Wheat Dosa,breakfast,TN,True,115,4,21,1.5,2,0.5,170,48,Low,True,True,low,False,True,False,1 piece
+Plain Dosa,breakfast,TN,True,120,3,23,2,0.5,0.5,200,52,Medium,True,True,low,True,False,False,1 piece
+Vegetable Uttapam,breakfast,TN,True,175,6,29,3.5,2.5,2,290,48,Low,True,True,medium,True,False,False,1 piece
+Ven Pongal,breakfast,TN,True,210,5.5,36,6,1,0.5,310,55,Medium,True,False,low,False,False,False,1 cup
+Ragi Porridge,breakfast,TN,True,120,3.5,22,1,2.5,2,80,40,Low,True,True,low,False,False,False,1 cup
+Oats Upma,breakfast,TN,True,150,5,24,3,3,1,200,40,Low,True,True,low,False,True,False,1 cup
+Kambu Kanji,breakfast,TN,True,100,3,20,1,2.5,1,50,40,Low,True,True,low,False,False,False,1 glass
+Thinai Kanji,breakfast,TN,True,105,3,21,1,2.5,1,55,38,Low,True,True,low,False,False,False,1 glass
+Ragi Malt,breakfast,KA,True,110,3,22,1,2,3,60,42,Low,True,True,low,False,False,False,1 glass
+Puttu with Kadala Curry,breakfast,KL,True,280,12,40,6,5,1,350,50,Medium,True,True,medium,False,False,False,1 puttu + curry
+Appam with Vegetable Stew,breakfast,KL,True,220,5,32,6,3,2,280,50,Medium,True,True,low,False,False,False,1 appam + stew
+Idiyappam,breakfast,TN,True,120,2,25,0.5,0.5,0.5,80,52,Medium,True,True,low,False,False,False,2 pieces
+Rava Idli,breakfast,KA,True,110,3,20,2,1,1,180,45,Low,True,True,low,False,False,False,2 pieces
+Vegetable Upma,breakfast,TN,True,165,5,27,4,2,1,230,55,Medium,True,True,medium,False,False,False,1 cup
+Poha,breakfast,KA,True,160,3,30,3,1,1,180,55,Medium,True,True,medium,False,False,False,1 cup
+Sambar Rice,lunch,TN,True,280,8,50,3,3,2,450,55,Medium,True,True,medium,False,False,False,1 plate
+Rasam Rice,lunch,TN,True,250,5,46,2,1,1,380,55,Medium,True,True,medium,False,False,False,1 plate
+Curd Rice,lunch,TN,True,220,6,38,4,0.5,3,300,52,Medium,True,True,low,False,False,True,1 cup
+Brown Rice with Sambar,lunch,TN,True,285,9,51,2,3.5,2,420,50,Medium,True,True,medium,False,False,False,1 plate
+Millet Rice,lunch,TN,True,170,4,35,1.5,2.5,0,10,45,Low,True,True,low,False,False,False,1 cup
+Ragi Mudde with Sambar,lunch,KA,True,260,8,46,2,4,1,400,45,Low,True,True,medium,False,False,False,2 balls + sambar
+Kootu,lunch,TN,True,120,5,15,4,4,2,250,30,Low,True,True,medium,False,False,False,1 cup
+Avial,lunch,KL,True,150,3,18,7,4,3,200,32,Low,True,True,medium,False,False,False,1 cup
+Thoran,lunch,KL,True,90,3,10,4,3,2,150,25,Low,True,True,medium,False,False,False,1 cup
+Poriyal Beans,lunch,TN,True,85,3,10,3,3,2,150,25,Low,True,True,medium,False,False,False,1 cup
+Poriyal Carrot,lunch,TN,True,80,2,11,3,3,3,140,28,Low,True,True,medium,False,False,False,1 cup
+Paruppu Rice,lunch,TN,True,300,11,52,3,4,1,280,50,Medium,True,True,low,False,False,False,1 plate
+Moong Dal Rice,lunch,TN,True,290,10,50,2,4,1,260,48,Low,True,True,low,False,False,False,1 plate
+Olan,lunch,KL,True,110,3,14,5,3,2,180,30,Low,True,True,low,False,False,False,1 cup
+Tomato Rice,lunch,TN,True,255,4,44,6,1.5,3,350,56,Medium,True,True,medium,False,False,False,1 cup
+Lemon Rice,lunch,TN,True,240,4,42,5,1,1,350,55,Medium,True,False,medium,False,False,False,1 cup
+Millet Vegetable Biryani,lunch,AP,True,300,8,50,6,4,3,450,48,Low,True,True,high,False,False,False,1 cup
+Fish Curry with Brown Rice,lunch,KL,False,350,22,42,8,2,1,480,50,Medium,True,True,medium,False,False,False,1 plate
+Chicken Curry with Millet Rice,lunch,AP,False,380,28,40,10,3,1,500,48,Low,True,False,high,False,False,False,1 plate
+Egg Curry with Rice,lunch,TN,False,340,18,44,10,1,2,450,52,Medium,True,False,medium,False,False,False,1 plate
+Sambar,lunch,TN,True,80,4,12,2,3,2,400,35,Low,True,True,medium,False,False,False,1 cup
+Rasam,lunch,TN,True,40,1.5,7,1,1,1,350,30,Low,True,True,medium,False,False,False,1 cup
+Ragi Dosa with Chutney,dinner,TN,True,160,5,28,3,2.5,1,220,42,Low,True,True,low,False,False,False,2 pieces
+Idli with Sambar Dinner,dinner,TN,True,150,7,28,1.5,3,1,320,38,Low,True,True,medium,False,False,False,2 idli + sambar
+Millet Khichdi,dinner,TN,True,220,8,38,4,4,1,300,42,Low,True,True,low,False,False,False,1 cup
+Oats Pongal,dinner,TN,True,190,6,32,4,3.5,0.5,280,40,Low,True,True,low,False,True,False,1 cup
+Vegetable Daliya,dinner,TN,True,180,6,30,3,3,2,260,45,Low,True,True,low,False,True,False,1 cup
+Pesarattu Dinner,dinner,AP,True,145,9,22,2.5,3,0.5,200,38,Low,True,True,medium,False,False,False,1 piece
+Wheat Roti with Dal,dinner,TN,True,250,10,40,5,5,1,350,48,Low,True,True,medium,False,True,False,2 roti + dal
+Ragi Roti,dinner,KA,True,160,4,30,2,3,0.5,120,42,Low,True,True,low,False,False,False,2 pieces
+Vegetable Soup,dinner,TN,True,80,3,12,2,3,3,350,20,Low,True,True,medium,False,False,False,1 bowl
+Moong Dal Khichdi,dinner,TN,True,230,9,38,4,4,1,300,42,Low,True,True,low,False,False,False,1 cup
+Appam with Dal Curry,dinner,KL,True,240,8,38,5,3,2,320,48,Low,True,True,medium,False,False,False,1 appam + curry
+Grilled Fish,dinner,KL,False,180,28,0,7,0,0,350,0,Low,True,True,medium,False,False,False,1 piece
+Egg Bhurji with Roti,dinner,TN,False,280,16,32,10,3,2,420,48,Low,True,False,medium,False,True,False,2 roti + egg
+Chicken Soup,dinner,AP,False,150,20,8,4,1,1,400,20,Low,True,True,low,False,False,False,1 bowl
+Steamed Fish with Vegetables,dinner,KL,False,200,25,8,6,2,1,380,22,Low,True,True,medium,False,False,False,1 plate
+Roasted Peanuts,snack,TN,True,160,7,6,14,2,1,5,14,Low,True,True,low,False,False,False,1 handful
+Roasted Chana,snack,TN,True,120,6,18,2,4,2,10,28,Low,True,True,low,False,False,False,1 handful
+Ragi Cookies,snack,KA,True,110,2,18,4,2,4,80,42,Low,True,True,low,False,False,False,2 pieces
+Sprouts Salad,snack,TN,True,90,6,14,1,4,2,50,22,Low,True,True,low,False,False,False,1 cup
+Cucumber Raita,snack,TN,True,60,3,6,2,0.5,4,100,25,Low,True,True,low,False,False,True,1 cup
+Buttermilk,snack,TN,True,35,2,4,1,0,3,200,25,Low,True,True,low,False,False,True,1 glass
+Coconut Water,snack,KL,True,45,0.5,9,0.5,0,6,250,54,Medium,True,True,low,False,False,False,1 glass
+Boiled Groundnuts,snack,TN,True,140,6,10,10,3,1,15,14,Low,True,True,low,False,False,False,1 cup
+Vegetable Cutlet Baked,snack,KA,True,120,4,18,3,3,2,200,45,Low,True,True,medium,False,False,False,2 pieces
+Ragi Ladoo Sugar-free,snack,KA,True,100,2,16,3,2,1,20,42,Low,True,True,low,False,False,False,1 piece
+Mini Idli,snack,TN,True,87,3,18,0.6,0.8,0.5,180,35,Low,True,True,low,False,False,False,3 pieces
+Steamed Corn,snack,TN,True,100,3,20,1,2,4,10,52,Medium,True,True,low,False,False,False,1 cup
